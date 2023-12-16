@@ -84,7 +84,7 @@ try:
 except ValueError:
     exit()
 Codename = 159357
-CoY = ('\r   %s[%s•%s] %sStrictly Forbidden to Recode %s!%s'%(M,P,M,P,M,P))
+CoY = ('\r   %s[%s•%s] %sStrictly Forbidden to Recode %s!%s'%(L,P,L,P,L,P))
 current_month = months_list[month_current]
 date_formatted = ("%s-%s-%s"%(day, current_month, year))
 # ══════[ APPEND ]══════ #
@@ -92,14 +92,7 @@ OK = []
 CP = []            
 merge_passwords = []  
 paste_passwords = []  
-# ══════[ DON'T REMOVE ANY ]══════ #
-SAKERA = Codename + len(Author) - len(Facebook) + len(Instagram) - len(Whatsapp) + len(YouTube)
-sakara = len(Author)    +  Codename
-sakira = len(Facebook)  +  Codename
-sakura = len(Instagram) +  Codename
-sakera = len(Whatsapp)  +  Codename
-sakora = len(YouTube)   +  Codename
-ip_log = Denventa * id_dev - 3654168663
+
 # ══════[ GLOBAL URL + HEADERS ]══════ #
 url_business = "https://business.facebook.com"
 ua_business = "Mozilla/5.0 (Linux; Android 8.1.0; MI 8 Build/OPM1.171019.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.86 Mobile Safari/537.36"
